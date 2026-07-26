@@ -1,38 +1,28 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Descrivi un bug da aggiustare
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Prima di mandare il bug report, scrivi l'output del comando /whereami al fondo di questo report!
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Descrivi il bug**
+Descrivi in modo chiaro il bug
+
+**Come ricreare il bug**
+Step per ricreare il bug:
+1. Vai su x
+2. Clicca su y
+4. Il bug appare
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+Il comportamento che ci si aspetterebbe
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+Screenshot del bug se possibile
 
 **Additional context**
 Add any other context about the problem here.
